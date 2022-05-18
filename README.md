@@ -2,7 +2,7 @@
 
 
 ### Desafio de Projeto Git/Github Dio
-repositorio criado para o desafio do bootcamp Dio
+Repositorio criado para o desafio do bootcamp Dio
 
 ### Links Úteis
 
