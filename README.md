@@ -1,9 +1,9 @@
-# dio-desafio-github-primeiro-repostorio
+# Dio-desafio-github-primeiro-repostorio
 
 
-### Desafio de projeto Git/Github Dio
+### Desafio de Projeto Git/Github Dio
 repositorio criado para o desafio do bootcamp Dio
 
-### links úteis
+### Links Úteis
 
-[sintaxe basíca markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
+[Sintaxe Básica Markdown](https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open)
